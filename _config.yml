@@ -9,7 +9,7 @@
 title: die-schwenks.de
 description: 'Tim, Marc, Tina und Alex' # write a nice description for your blog
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'http://www.die-schwenks.de' # the base hostname & protocol for your site http://www.example.com
+url: 'http://junior.die-schwenks.de' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
 # twitter_username: 'twitter_username'
 
